@@ -6,7 +6,7 @@ export default function App() {
     <div style={{ height: '100vh' }}>
       <PDFViewer 
         config={{
-          src: '/pdf-viewer/your-pdf-file.pdf',
+          src: '/pdf-viewer/ACWI Facilities Handbook_v080425 (1).pdf',
           theme: { preference: 'light' }
         }}
       />
